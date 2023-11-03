@@ -1,9 +1,14 @@
 .header {
   color: brown;
+  background-color: aquamarine;
 }
 
 .main {
   background-color: blueviolet;
+}
+
+#footer {
+  background-color: chocolate;
 }
 /* Add a background color to the header element */
 
