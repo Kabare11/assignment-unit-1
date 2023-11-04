@@ -2,9 +2,21 @@
   color: brown;
   background-color: aquamarine;
 }
+h1 {
+  align-items: center;
+}
 
-.main {
+img {
+  border: 15px solid black;
+  width: 500px;
+  height: 300px;
+}
+
+main {
   background-color: blueviolet;
+}
+ul {
+  font-family: "Courier New", Courier, monospace;
 }
 
 #footer {
