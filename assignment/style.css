@@ -22,6 +22,11 @@ ul {
 #footer {
   background-color: chocolate;
 }
+
+p {
+  color: darkgreen;
+  font-style: italic;
+}
 /* Add a background color to the header element */
 
 /* Add a fun background color to the main element */
